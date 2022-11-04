@@ -1,0 +1,15 @@
+title: VSITE OOP zadaci
+plan:
+- title: zadatak 1
+  statement: a01.md
+- title: zadatak 2
+  statement: a02.md
+- title: zadatak 3
+  statement: a03.md
+- title: zadatak 4
+  statement: a04.md
+
+projects:
+  cpp:
+    root: "/"
+    runner: gcc:7.1
