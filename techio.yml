@@ -12,4 +12,4 @@ plan:
 projects:
   cpp:
     root: "/"
-    runner: gcc:7.1
+    runner: gcc:latest

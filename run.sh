@@ -1,3 +1,3 @@
 #!/bin/sh
-g++ -std=c++1z -O2 -Wall $1
+g++ -std=c++20 -O2 -Wall $1
 ./a.out
